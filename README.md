@@ -10,6 +10,6 @@ Ainsi, vous pouvez modifier le lien, exemple : https://anonyme.com/messages.php?
 
 J'espère que ça vous plaira, j'ai mis un après midi à le coder alors si il y a des erreurs, faites le moi savoir.
 
-(\(\
+(\ (\
 ( -.-)   -------|@Kadjessa|  
  (")_(")
